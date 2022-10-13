@@ -32,3 +32,5 @@ outputs this
 ```bash
 "Valid ID, Entrance Year is 2020"
 ```
+<br><br>
+This project was done as an IEEE enrolment task and was inspired by here [Egyptian national ID validator](https://github.com/aboueleyes/id-validator). 
